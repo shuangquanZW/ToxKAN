@@ -177,6 +177,10 @@ Since the project name has changed from **KAVNN** to **ToxKAN**, a future code c
 
 If you make these changes, remember to update import statements throughout the project.
 
+## Data availability
+
+All raw data utilized in this study are publicly accessible. The Open TG-GATES dataset can be retrieved from [Open TG-GATES](https://dbarchive.biosciencedbc.jp/en/open-tggates/download.html), while the external validation dataset DrugMatrix is available from [DrugMatrix](https://ntp.niehs.nih.gov/data/drugmatrix). The processed datasets are also publicly available on [Zenodo](https://zenodo.org/records/18491821).
+
 ## Citation
 
 If you use this codebase, please cite the corresponding ToxKAN manuscript.
